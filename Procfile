@@ -1,2 +1,2 @@
-worker: bash userbot
 
+worker: bash D3VIL-BOT
